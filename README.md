@@ -1,1 +1,1 @@
-# lit-reactive-properties-typescript
+# lit-reactive-properties-typescripta
